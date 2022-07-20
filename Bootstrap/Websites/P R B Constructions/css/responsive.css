@@ -1,0 +1,21 @@
+@media only screen and (min-width:320px) and (max-width:600px)
+{
+	footer .socials
+	{
+		float: left;
+    	padding: 5px 0;
+	}
+	.navigation
+{
+	padding:0px 0 0 !important;
+}
+
+.safety{
+	padding: 10px;
+	text-align: center !important;
+}
+.themecolor{
+	font-size: 20px !important;
+}
+
+}
