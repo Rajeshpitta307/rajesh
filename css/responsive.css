@@ -1,0 +1,39 @@
+@media screen and (min-width: 200px) and (max-width:768px) {
+ 
+    
+    .layout-flex{
+        flex-direction: column !important;
+       
+      }
+
+.about-bg {
+  background-image: url(../images/about-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  object-fit: cover;
+  height: 249px;
+}
+
+.respons-img{
+    display: none;
+}
+
+.about-pad {
+  padding: 10px !important;
+  font-size: 15px;
+  color: #ffffff;
+  /* font-size: 19px; */
+}
+
+/* skills */
+
+}
+
+@media screen and (min-width: 200px) and (max-width:500px) {
+
+    .dn{
+        display: none;
+    }
+}
+
+/* skills */

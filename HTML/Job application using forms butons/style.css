@@ -1,0 +1,95 @@
+*
+{
+font-family:poppins;
+}
+
+.hdd{
+    text-align: center;
+    color: red;
+
+}
+.hddd{
+    text-align: center;
+    color: rgb(30, 216, 73);
+    background-color: rgb(75, 75, 74);
+
+}
+
+ul li {
+
+    align-items: center;
+    float: left;
+    display: inline;
+    padding: 10px 80px;
+    margin: 0px 30px;
+    background-color: rgb(30, 102, 216);
+    border-radius: 30px;
+}
+ul li a{
+    text-decoration: none;
+    color: aliceblue;
+;
+}
+.spcl{
+    background-color: rgb(30, 216, 73);
+}
+
+
+form {
+
+    padding-left: 100px;
+    padding-top: 20px;
+    box-shadow: 0px 0px 0px 2px rgb(114 228 8);
+    align-items: center;
+    width: 91%;
+}
+
+    .frst{
+    height:25px;
+    }
+    .lst{
+    height:25px;
+    }
+    .ph{
+    width:365px;
+    height:25px;
+    }
+    .email
+    {
+    width:365px;
+    height:25px;
+    }
+    .dob
+    {
+    width:365px;
+    height:25px;
+    }
+    .Li
+    {
+    width:365px;
+    height:25px;
+    }
+    .Lang
+    {
+    width:365px;
+    height:25px;
+    }
+    .button {
+        background-color: #1e66d8;
+        color: white;
+        width: 120px;
+        height: 40px;
+        border: none;
+        border-radius: 20px;
+        font-size: 21px;
+    }
+    .button:hover
+    {
+    background-color:rgb(114 228 8);
+    cursor:pointer;
+    }
+
+    button a{
+        text-decoration: none;
+        color: aliceblue;
+    }

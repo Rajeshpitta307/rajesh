@@ -1,0 +1,81 @@
+.navvv {
+    display: inline;
+    margin: 0 10px 0 100px;
+    text-align: justify;
+  
+
+}
+
+.s1 {
+    display: inline;
+    margin: 0 0 0 0;
+}
+.navmain{
+    background-color: rgb(185, 245, 242);
+    padding: 1px;
+}
+
+.solar1{
+    width: 49%;
+    display: inline-block;
+    text-align: justify;
+
+}
+.solar2{
+    width: 49%;
+    display: inline-block;
+    text-align: justify;
+
+
+}
+
+
+.divtest{
+    background-color: rgb(239, 211, 247);
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+.divtest2{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;   
+}
+
+.divtest2_2{
+    text-align: justify;   
+
+}
+.ul_1{
+
+    list-style-type: circle;
+}
+.service1{
+    width: 33%;
+    display: inline-block;
+}
+
+.res1{
+    width: 69%;
+    display: inline-block;
+    padding: 15px;
+
+
+}
+
+.res2 
+{
+    width: 28%;
+    display: inline-block;
+
+}
+.res2 img{
+    border-radius:10%; 
+    border: 2px solid red;
+
+}
+.res{
+
+    padding: 10px;
+    text-align: justify;
+}

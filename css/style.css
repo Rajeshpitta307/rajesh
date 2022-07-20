@@ -1,0 +1,273 @@
+
+
+.bgbody{
+  --bs-bg-opacity: 1;
+  background-color: #363739 !important;
+}
+
+.about-pad {
+  padding-top: 200px;
+  padding-right: 68px !important;
+  padding-left: 120px !important;
+  color: #ffffff;
+  /* font-size: 19px; */
+}
+
+.about-bg {
+  background-image: url(../images/about-bg.jpg);
+
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.about-pad2 {
+  padding-top: 60px;
+  /* padding-right: 50px !important; */
+  color: #ffffff;
+
+}
+
+.EDUCATION {
+  padding-top: 10PX;
+  /* padding-right: 50px !important; */
+  color: #ffffff;
+
+}
+
+.skills {
+
+  color: #ffffff !important;
+  text-decoration: none;
+}
+
+.skills2 {
+  color: #1cdfcf !important;
+  padding-left: 60px;
+
+}
+
+.bordernone{
+  border: none !important;
+  flex-direction: row !important;
+}
+
+.layout-flex{
+  flex-direction: row !important;
+}
+
+.pi {
+  padding-left: 50px !important;
+}
+
+.img-shadow {
+  box-shadow: 0px 0px 90px 0px #000000;
+  border-radius: 245px;
+}
+
+.img-shadow1 {
+  box-shadow: 0px 0px 30px 0px #858585;
+  border: white;
+  /* background-color: #23dbff26; */
+  /* padding: 12px; */
+  /* border: 1px solid #35da758f; */
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.round-img {
+  border-radius: 100px !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+color: rgb(0 0 0) !important ; 
+}
+
+.hereme {
+  border: 2px solid #feb1b1 !important;
+  color: white !important;
+}
+
+.hereme2 {
+  border: 2px solid #feb1b1 !important;
+  color: white !important;
+
+  margin: 5px 80px;
+  width: 50%;
+
+}
+
+.info li{
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+}
+
+
+.cad{
+  animation-name: a1;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+  }
+
+  @keyframes a1{
+    from{width:0%}
+    to{width:80%}
+  }
+
+  .creo{
+    animation-name: a2;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+  }
+
+  @keyframes a2{
+    from{width:0%}
+    to{width:60%}
+  }
+
+  .gis{
+    animation-name: a3;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+  }
+
+  @keyframes a3{
+    from{width:0%}
+    to{width:95%}
+  }
+
+  .qgis{
+    animation-name: a4;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+  }
+
+  @keyframes a4{
+    from{width:0%}
+    to{width:85%}
+  }
+
+  .sn{
+    animation-name: a5;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+  }
+
+  @keyframes a5{
+    from{width:0%}
+    to{width:50%}
+  }
+
+  .ge{
+    animation-name: a6;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+  }
+
+  @keyframes a6{
+    from{width:0%}
+    to{width:98%}
+  }
+
+  .ap{
+    animation-name: a7;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+  }
+
+  @keyframes a7{
+    from{width:0%}
+    to{width:75%}
+  }
+
+  .htmll{
+    animation-name: a8;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+  }
+
+  @keyframes a8{
+    from{width:0%}
+    to{width:90%}
+  }
+  .boot{
+    animation-name: a9;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+  }
+
+  @keyframes a9{
+    from{width:0%}
+    to{width:70%}
+  }
+
+  .images{
+    object-fit: contain !important;
+    width: 75%;
+    height: 50%;
+  }
+
+  .bg1 {
+    background-color: #a5e1ca;
+    padding: 10px;
+}
+
+.bg2 {
+  background-color: #e7eff7;
+  padding: 10px;
+}
+
+.alignn {
+  text-align: right !important;
+}
+
+
+
+.carousel-item img
+{
+ width:250px;
+ height: 500px;
+ object-fit: cover;
+ filter: blur(2px);
+}
+
+.hhh{
+  height: 200px;
+  width: 50%;
+  background-color: powderblue;
+}
+
+/*education */
+
+.bg3 {
+    background-image: radial-gradient(#ffffff, #59fcdca1, #78b9cc);
+    padding: 30px;
+}
+
+.bg4 {
+  background-image: radial-gradient(#ffffff, #49de6369, #1bae1400);
+  padding: 30px;
+}
+
+.name{
+  margin: 0px 0px 150px 500px;
+}
+/*education */
+
+
+
+
+.list-group-item {
+  background: transparent !important;
+}
+
+/* .list-group-item:hover{
+  color: rgb(41, 40, 40);
+  background-color: rgb(108, 152, 235) !important;
+  font-size:large !important;
+  zoom: 1;
+} */
+
+hr {
+  border: 5px solid rgb(112, 52, 52);
+  border-radius: 100px;
+}
