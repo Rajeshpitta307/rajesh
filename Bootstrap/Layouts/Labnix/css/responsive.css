@@ -1,0 +1,22 @@
+@media screen and (min-width: 200px) and (max-width: 768px)
+{
+.dn{
+    display: none !important;
+
+}
+
+.foot{
+    padding: 10px 0px 0px 10px;
+    margin: 0px 0px;
+  }
+  .bg2{
+      padding: 5px;
+  }
+
+  .phone{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+}
